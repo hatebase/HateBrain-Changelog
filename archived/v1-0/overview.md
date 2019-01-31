@@ -1,6 +1,8 @@
 # HateBrain v1.0
 
-```Deployed April 2013
+~~~
+Deployed April 2013
+~~~
 
 This was the initial implementation of HateBrain, which was primarily a keyword-matching algorithm that:
 
