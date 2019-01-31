@@ -1,6 +1,8 @@
 # HateBrain v2.1
 
-```Deployed January 2019
+~~~
+Deployed January 2019
+~~~
 
 ## Features
 
