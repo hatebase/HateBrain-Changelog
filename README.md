@@ -6,7 +6,7 @@ Although HateBrain is not open source, neither is it a black box, and so this ch
 
 # Versions
 
-- [v2.3](current/v2-2/overview.md) **Current**
+- [v2.3](current/v2-3/overview.md) **Current**
 - [v2.2](archived/v2-2/overview.md)
 - [v2.1](archived/v2-1/overview.md)
 - [v2.0](archived/v2-0/overview.md)
